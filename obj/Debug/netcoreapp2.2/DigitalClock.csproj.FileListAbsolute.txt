@@ -1,0 +1,11 @@
+E:\DigitalClock\obj\Debug\netcoreapp2.2\DigitalClock.csprojAssemblyReference.cache
+E:\DigitalClock\obj\Debug\netcoreapp2.2\DigitalClock.csproj.CoreCompileInputs.cache
+E:\DigitalClock\obj\Debug\netcoreapp2.2\DigitalClock.AssemblyInfoInputs.cache
+E:\DigitalClock\obj\Debug\netcoreapp2.2\DigitalClock.AssemblyInfo.cs
+E:\DigitalClock\bin\Debug\netcoreapp2.2\DigitalClock.deps.json
+E:\DigitalClock\bin\Debug\netcoreapp2.2\DigitalClock.runtimeconfig.json
+E:\DigitalClock\bin\Debug\netcoreapp2.2\DigitalClock.runtimeconfig.dev.json
+E:\DigitalClock\bin\Debug\netcoreapp2.2\DigitalClock.dll
+E:\DigitalClock\bin\Debug\netcoreapp2.2\DigitalClock.pdb
+E:\DigitalClock\obj\Debug\netcoreapp2.2\DigitalClock.dll
+E:\DigitalClock\obj\Debug\netcoreapp2.2\DigitalClock.pdb
